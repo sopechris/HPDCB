@@ -71,7 +71,6 @@ Add your name and website here!
 - [Iván Pérez López](https://ivanpl-urv.github.io/)
 - [Noelia Muñoz](https://noeliamg227.github.io/)
 - [Miriam Cegarra Cuquerella](https://miriamcuque.github.io/)
-- [Ecem Onat Cakmak](https://ecem-onatcakmak.github.io)  
-    
+- [Ecem Onat Cakmak](https://ecem-onatcakmak.github.io)   
 - [Miguel González González](https://miguelglez99.github.io/)
-
+- [Christian Dorado Cerrato](https://sopechris.github.io)
