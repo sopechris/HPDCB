@@ -131,3 +131,4 @@ Add your name and website here!
 - [Kamela Xhengo](https://kamie-x.github.io/)
 - [Serina Allen](https://sdallen7.github.io/)
 - [Noa Janer](https://noajaneroliver.github.io/)
+- [Christian Dorado](https://sopechris.github.io/)
